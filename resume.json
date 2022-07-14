@@ -1,0 +1,137 @@
+{
+    "basics": {
+        "name": "Prajwal Swaroop Srivastava",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2044@iiitkota.ac.in",
+        "phone": "",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information Technology, Kota (India), persuing my B.tech in Electronics and Communication Engineering.",
+        "location": {
+            "address": "Dwarka",
+            "postalCode": "110078",
+            "city": "New Delhi",
+            "countryCode": " India",
+            "region": "Delhi"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "sri_oop_pra",
+                "url": "https://www.twitter.com/sri_oop_pra"
+            },
+            {
+                "network": "Github",
+                "username": "walsri24",
+                "url": "https://www.github.com/walsri24"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "_prajwalssri",
+                "url": "https://instagram.com/_prajwalssri"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.8",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "MySQL",
+                "C/C++",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
